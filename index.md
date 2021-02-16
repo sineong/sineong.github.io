@@ -7,3 +7,5 @@ permalink: /
 ---
 
 ## Let's dig in!
+
+![](https://github.com/sineong/sineong.github.io/tree/master/assets/lucky.jpg)
