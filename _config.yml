@@ -69,6 +69,18 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+# Category
+collections:
+  featured_categories:
+    permalink:       /category/:name/
+    output:          true
+  featured_tags:
+    permalink:       /tag/:name/
+    output:          true
+  projects:
+    permalink:       /projects/:path/
+    output:          true
+
 # Social Sharing
 twitter:
   username               :
