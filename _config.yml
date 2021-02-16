@@ -69,6 +69,8 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+
+##################################################
 # Category
 collections:
   featured_categories:
@@ -81,6 +83,12 @@ collections:
     permalink:       /projects/:path/
     output:          true
 
+# Pagination configuration (used by the `blog` layout)
+paginate:            8
+paginate_path:       '/page-:num/'
+
+
+##################################################
 # Social Sharing
 twitter:
   username               :
