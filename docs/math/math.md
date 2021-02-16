@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Utilities
-nav_order: 4
+title: Mathematics
+nav_order: 3
 has_children: true
-permalink: docs/utilities
+permalink: /math
 ---
 
 # Utilities
