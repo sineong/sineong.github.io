@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Linear Algebra
-parent: Mathematics
+title: Interview
+nav_order: 4
 has_children: true
-nav_order: 1
+permalink: /interview
 ---
+
+# Interview
 
 Hello
 
 {: .fs-6 .fw-300 }
-

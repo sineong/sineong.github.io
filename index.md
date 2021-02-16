@@ -6,4 +6,4 @@ description: ""
 permalink: /
 ---
 
-## Getting started
+## Let's dig in!

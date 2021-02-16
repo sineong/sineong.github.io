@@ -6,8 +6,8 @@ has_children: true
 permalink: /math
 ---
 
-# Utilities
+# Mathematics
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+수학 잘하고 싶다
 {: .fs-6 .fw-300 }
