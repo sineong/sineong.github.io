@@ -8,4 +8,4 @@ permalink: /
 
 ## Let's dig in!
 
-![](/assets/images/lucky.jpg){: width="300px"}
+![](/assets/images/lucky.jpg){: width="500px"}
