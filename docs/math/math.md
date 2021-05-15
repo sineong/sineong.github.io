@@ -9,5 +9,5 @@ permalink: /docs/math
 # Mathematics
 {: .no_toc }
 
-수학 잘하고 싶다
+Don't give up!
 {: .fs-6 .fw-300 }
